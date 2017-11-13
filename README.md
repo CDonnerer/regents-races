@@ -40,7 +40,7 @@ It is of interest to explore which races are the fastest. There are six 10k race
 
 ![time seasonality](plots/time_seasonality.png)
 
-We can clearly see the slowest races are in June/ July, whereas September is the fastest race.
+We can clearly see the slowest races are in June/ July, whereas September is the fastest race. (How about adding some errorbars?)
 
 These seasonality effects likely emerge from different temperatures of the races as well as cumulative training at the end of the running season.
 
