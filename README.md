@@ -28,7 +28,7 @@ If we separate the data by gender, we can see a clear split of male and female r
 
 Ideally, at the start of the race, runners would line up from the start line in the order that they finish the race. This would get rid of faster runners overtaking slower runners (although in this race there are three laps, so it gets more complicated). By plotting the time delay upon crossing the start line against final place, we can quantify how well this works in practice:
 
-![delay by place](plots/timedelay_by_place.png)
+![delay by place](plots/delay_by_place.png)
 
 Up to the first 100 runners, one can see a linear trend emerging, which is gradually blurred out. This shows that the fastest runners line up closest to the start line, but is then less strictly followed. While there is a clear signal in the data, the runners do not line up too well.
 
