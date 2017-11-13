@@ -16,6 +16,10 @@ There are three jupyter notebooks that deal with getting the data, cleaning the 
 
 ### 10 k Finish time
 
-![time distribution](plots/time_distribution.png_)
+![time distribution](plots/time_distribution.png)
 
-![time distribution by gender](plots/time_distribution_by_gender.png_)
+![time distribution by gender](plots/time_distribution_by_gender.png)
+
+
+### Seasonality: when to obtain best finish time
+
